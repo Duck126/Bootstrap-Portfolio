@@ -1,0 +1,268 @@
+     body {
+       padding-top:0px;
+       background-image: url('https://www.planwallpaper.com/static/images/Light-Wood-Background-Wallpaper.jpg');
+       Background-size: cover;
+       
+       background-repeat:no-repeat;
+       display: compact;
+     }
+     
+     div.nav {
+       padding-top: 5px;
+       background-color: #ffffff;
+
+     }
+     
+     ul.nav {
+       padding-top: 20px;
+       padding-left: 0px;
+     }
+    
+     .nav-link {
+       font-family: 'Racing Sans One', cursive;
+       font-size: 20px;
+       color: #4aaaa5;
+     }
+     
+     .container {
+       width: 960px;
+       margin-right: 0px;
+       margin-left: 0px;
+       margin-top: 0px;
+       margin-bottom: 0px;
+     }
+
+
+     .nav-link.active {
+       text-transform: underline;
+     }
+     
+     .main {
+       background-color: #ffffff;
+       padding-bottom: 15px;
+       
+       margin-bottom: 100px;
+       margin-top: 50px;
+       margin-left: 2%;
+       width: auto;
+       height: auto;
+     }
+
+     p.imgtext {
+       background-color: #4aaaa5;
+       width: 300px;
+       text-align: center;
+       color: #ffffff;
+       font-family: 'Racing Sans One', cursive;
+       font-size: 20px;
+       
+     }
+
+     div.image {
+       padding-left: 10%;
+       padding-top: 15px;
+       align-content: center;
+     }
+     
+     div.a {
+       width: 33%;
+       padding-left: 15%;
+     }
+
+     div.side {
+       background-color: #ffffff;
+       width: auto;
+       height: 140px;
+       margin-bottom: 175px;
+       margin-left: 2%;
+       margin-right: 50px;
+       padding-right: 0px;
+       margin-top: 50px;
+      
+       
+     }
+
+     .input3 {
+   
+    bottom: 280px;
+    left: 35px;
+    text-align: left;
+    background: none;
+    color: #666666;
+    font-weight: bold;
+
+}
+
+.input2 {
+    
+    top: 85px;
+    left: 17.5px;
+    text-align: left;
+    background: none;
+    color: #666666;
+    font-weight: bold;
+}
+
+.input1 {
+   
+    top: 0px;
+    left: 17.5px;
+    text-align: left;
+    background: none;
+    color: #666666;
+    font-weight: bold;
+}
+.contact1 {
+   
+    top: 0px;
+    left: 17.5px;
+    width: 300px;
+    height: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: #cccccc;
+    text-decoration-color: #cccccc;
+    font-weight: bold;
+    margin-left: 0px;
+
+}
+
+.contact2 {
+  
+    top: 140px;
+    left: 17.5px;
+    width: 350px;
+    height: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: #cccccc;
+    text-decoration-color: #cccccc;
+    font-weight: bold;
+    margin-left: 0px;
+
+}
+
+
+.contact3 {
+   
+    width: 575px;
+    height: 175px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: #cccccc;
+    text-decoration-color: #cccccc;
+    font-weight: bold;
+    bottom: 0px;
+    left: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+     .profile {
+       margin-left: 0px;
+        margin-right: 0px;
+     }
+
+     profile1 {
+      
+     }
+
+
+     .info {
+    text-align: left;
+    margin-left: 25px;
+    margin-bottom: 50px;
+    width:auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: #cccccc;
+}
+
+  
+      
+      h1 {
+        background-color: #4aaaa5;
+       text-align: center;
+       margin-top: 10px;
+       margin-left: 10px;
+       padding-top: 10px;
+       width: 350px;
+       height: 72px;
+       
+      
+       font-family: 'Racing Sans One', cursive;
+       font-size: 45px;
+       color: #ffffff;
+     }
+
+      h2 {
+       padding-left: 10px;
+       background-color: #4aaaa5;
+       text-align: left;
+       margin-top:15px;
+       margin-left: 0px;
+      
+   
+     
+       font-family: 'Racing Sans One', cursive;
+       font-size: 45px;
+       color:#ffffff;
+     }
+  
+      h3 {
+        margin-top: 15px;
+       padding-left: 10px;
+       background-color: #4aaaa5;
+       text-align: left;
+       margin-left: 0px;
+       width: 100%;
+       
+       font-family: 'Racing Sans One', cursive;
+       font-size: 25px;
+       color: #ffffff;
+     }
+
+     .name {
+       background-color: #ffffff;
+     }
+
+     .footertop {
+       position: fixed;
+       bottom: 75px;
+       left: 0px;
+       height: 5px;
+       width: ;
+       background-color: #4aaaa5
+
+
+     }
+     .footer {
+       font-family: 'Racing Sans One', cursive;
+       padding-top: 20px;
+       text-align: center;
+       margin-top: 150px;
+       width: ;
+       color: #ffffff;
+       border-style: solid;
+       border-color: #666666;
+       background-color:#666666;
+       height: 75px;
+       position: fixed;
+       bottom: 0px;
+       left: 0px;
+     }
+
+
+
+     
+    
+
+    
+      
+        
